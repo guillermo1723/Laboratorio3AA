@@ -1,0 +1,5 @@
+Se observa que al aumentar el valor de k, el tiempo de ejecución inicialmente disminuye, 
+debido a que Insertion Sort resulta eficiente para ordenar sublistas pequeñas. 
+Se alcanza un punto de mejor rendimiento en k =32, donde se obtiene el menor tiempo de ejecución. 
+Después de este punto, el tiempo vuelve a aumentar debido a que Insertion Sort debe trabajar 
+con sublistas cada vez mayores y su costo crece cuadráticamente.
